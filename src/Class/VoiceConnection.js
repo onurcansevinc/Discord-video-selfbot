@@ -224,8 +224,8 @@ class VoiceConnection {
 					max_framerate: 60,
 					max_resolution: {
 						type: 'fixed',
-						width: 1920,
-						height: 1080,
+						width: 2560,
+						height: 1440,
 					},
 				},
 			],
